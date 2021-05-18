@@ -50,6 +50,22 @@ export const Projects = () => {
     "stargazers_count":"0",
     "forks_count":"0"
   },{
+    "id": 176791610,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxOTY3OTE2MTS=",
+    "svn_url":"https://github.com/AjayThakur12/song-recognizer.git",
+    "name": "Song Recognizer",
+    "description": "Song Recognizer Using Deep Learning",
+    "stargazers_count":"0",
+    "forks_count":"0"
+  },{
+    "id": 166791610,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxOTY3OTE2MTT=",
+    "svn_url":"https://github.com/AjayThakur12/bikeshare-data-analysis",
+    "name": "Bikeshare",
+    "description": "Bikeshare Data Analysis",
+    "stargazers_count":"0",
+    "forks_count":"0"
+  },{
     "id": 196791610,
     "node_id": "MDEwOlJlcG9zaXRvcnkxOTY3OTE2MTA=",
     "svn_url":"https://github.com/AjayThakur12/psych",
