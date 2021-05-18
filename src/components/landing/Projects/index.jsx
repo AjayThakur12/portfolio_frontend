@@ -18,6 +18,22 @@ export const Projects = () => {
     "stargazers_count":"2",
     "forks_count":"1"
   },{
+    "id": 149817922,
+    "node_id": "KDEwOlJlcG9zaXRvcnkxMzk4MTc5MjI=",
+    "svn_url":"https://github.com/AjayThakur12/portfolio_frontend",
+    "name": "PortfolioUI",
+    "description": "Portfolio Frontend",
+    "stargazers_count":"0",
+    "forks_count":"0"
+  },{
+    "id": 159817922,
+    "node_id": "ZDEwOlJlcG9zaXRvcnkxMzk4MTc5MjI=",
+    "svn_url":"https://github.com/AjayThakur12/portfolio_backend",
+    "name": "Portfolio",
+    "description": "Portfolio Backend",
+    "stargazers_count":"0",
+    "forks_count":"0"
+  },{
     "id": 139817922,
     "node_id": "MDEwOlJlcG9zaXRvcnkxMzk4MTc5MjI=",
     "svn_url":"https://github.com/AjayThakur12/xmeme",
