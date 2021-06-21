@@ -1,37 +1,7 @@
-# Profile FE
+# Portfolio frontend
+## URL
+https://pensive-engelbart-edec21.netlify.app/
 
-## Testing
+## Image
 
-```bash
-npm test
-```
-
-## Local Run
-
-Set up your development environment
-
-```bash
-npm install
-cp .env.template .env.development
-```
-
-Provide correct values in `.env.development` and proceed with local run:
-```bash
-npm start
-```
-
-## Deployment
-
-Similar to `.env.development`, create a `.env.production` file with necessary variables.
-
-Sign up for Netlify and install Netlify CLI
-
-```bash
-netlify login
-```
-
-Proceed with deployment:
-```bash
-npm run-script build
-netlify deploy --dir=public --prod
-```
+<img width="1038" alt="Screenshot 2021-06-21 at 2 06 03 PM" src="https://user-images.githubusercontent.com/29337604/122732376-d7f63c00-d299-11eb-9741-807195136378.png">
